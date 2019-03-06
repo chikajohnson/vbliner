@@ -1,0 +1,25 @@
+Dear readers, here is a list of top 20 REST API interview questions and answers for software testers. Being a QA engineer, we also need to be aware of the rest API concept.
+
+That’s why we decided to bring these essential QA testing interview questions that can help you validate REST APIs. Also, the knowledge you would gain from here can let you do well in the Software testing interviews.
+
+Another point you should note that every good interviewer prepares himself for asking questions related to the job requirements. It’s because that is his/her responsibility to make the right selection. So you should also equip yourself with information to encounter questions from the interviewer.
+
+Hence, we suggest you go through all these 20 REST API interview questions and answers. The questionnaire will begin with the basics of REST API testing and sail you through the advanced concepts.
+
+However, we know that qualifying through a QA interview would need much more than just reading this post. So here is a list of some of the most read posts that include testing questions already helped a large no. of our readers.
+
+?? Suggestions –
+
+1- QA Interview Questions and Answers
+
+2- Manual Testing Interview Questions
+
+Now, you can begin exploring the most important REST API interview questions that we laid out for both the beginners and experienced testers.
+
+Top 20 REST API Interview Questions
+REST API Interview Questions and Answers for Software Test Engineers
+REST API Interview Q&A
+
+Q-1. Explain REST?
+Ans. REST stands for Representational State Transfer. REST is an architectural style of developing web services which take advantage of the ubiquity of HTTP protocol and leverages HTTP method to define actions. It revolves around resource where every component is a resource which can be accessed by a common interface using HTTP standard methods.
+ opening 
